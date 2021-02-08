@@ -491,4 +491,4 @@ bot.on("message", async message => {
     }
   }
 })
-bot.login("NzEyMTA5NjMzODYyNjMxNDcz.XsMxxw.5gjdGEKNvo9mtetwgSXikvWP-C0");
+bot.login("Token");
